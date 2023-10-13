@@ -1,4 +1,4 @@
-package week3;
+package natalija.week3;
 
 public class PrimeNumber {
 
