@@ -1,4 +1,4 @@
-package week1;
+package natalija.week1;
 
 public class DivideWithoutDivisionOperator {
     public static void main(String[] args) {
