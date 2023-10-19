@@ -17,7 +17,7 @@ public class ReverseNegativeNumber {
     public static int reverseNegativeNumber2(int num){
 
         if(num > 0){
-            System.out.println("This is not a negative number");;
+            System.out.println("This is not a negative number");
         }
 
 
