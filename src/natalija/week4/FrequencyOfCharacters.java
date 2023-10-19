@@ -1,4 +1,4 @@
-package week4;
+package natalija.week4;
 
 public class FrequencyOfCharacters {
 
